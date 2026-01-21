@@ -1,0 +1,8 @@
+{
+  "name": "umair.pk - YouTube Video Downloader & Analyzer",
+  "description": "A professional YouTube video downloader interface and AI-powered video analyzer named umair.pk. Paste any YouTube link to get started.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
